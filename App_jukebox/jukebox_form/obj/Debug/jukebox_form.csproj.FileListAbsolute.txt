@@ -1,0 +1,36 @@
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\jukebox_form\jukebox_form\bin\Debug\jukebox_form.exe.config
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_form\bin\Debug\jukebox_form.exe.config
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_form\obj\Debug\jukebox_form.csprojResolveAssemblyReference.cache
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_form\obj\Debug\jukebox_form.form_accueil.resources
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_form\obj\Debug\jukebox_form.form_CD.resources
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_form\obj\Debug\jukebox_form.form_dvd.resources
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_form\obj\Debug\jukebox_form.Properties.Resources.resources
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_form\obj\Debug\jukebox_form.csproj.GenerateResource.Cache
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_form\bin\Debug\jukebox_form.exe
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_form\bin\Debug\jukebox_form.pdb
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_form\bin\Debug\ClassLibrary1.dll
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_form\bin\Debug\MySql.Data.dll
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_form\bin\Debug\ClassLibrary1.pdb
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_form\obj\Debug\jukebox_form.form_Cd_ajout.resources
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_form\obj\Debug\jukebox_form.form_CD_modif.resources
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_form\obj\Debug\jukebox_form.exe
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_form\obj\Debug\jukebox_form.pdb
+C:\Users\thomas\Desktop\Workspace\Jukebox\App_jukebox\jukebox_form\bin\Debug\jukebox_form.exe.config
+C:\Users\thomas\Desktop\Workspace\Jukebox\App_jukebox\jukebox_form\bin\Debug\jukebox_form.exe
+C:\Users\thomas\Desktop\Workspace\Jukebox\App_jukebox\jukebox_form\bin\Debug\jukebox_form.pdb
+C:\Users\thomas\Desktop\Workspace\Jukebox\App_jukebox\jukebox_form\bin\Debug\ClassLibrary1.dll
+C:\Users\thomas\Desktop\Workspace\Jukebox\App_jukebox\jukebox_form\bin\Debug\MySql.Data.dll
+C:\Users\thomas\Desktop\Workspace\Jukebox\App_jukebox\jukebox_form\bin\Debug\ClassLibrary1.pdb
+C:\Users\thomas\Desktop\Workspace\Jukebox\App_jukebox\jukebox_form\obj\Debug\jukebox_form.csprojResolveAssemblyReference.cache
+C:\Users\thomas\Desktop\Workspace\Jukebox\App_jukebox\jukebox_form\obj\Debug\jukebox_form.form_accueil.resources
+C:\Users\thomas\Desktop\Workspace\Jukebox\App_jukebox\jukebox_form\obj\Debug\jukebox_form.form_Cd_ajout.resources
+C:\Users\thomas\Desktop\Workspace\Jukebox\App_jukebox\jukebox_form\obj\Debug\jukebox_form.form_CD.resources
+C:\Users\thomas\Desktop\Workspace\Jukebox\App_jukebox\jukebox_form\obj\Debug\jukebox_form.form_CD_modif.resources
+C:\Users\thomas\Desktop\Workspace\Jukebox\App_jukebox\jukebox_form\obj\Debug\jukebox_form.form_dvd.resources
+C:\Users\thomas\Desktop\Workspace\Jukebox\App_jukebox\jukebox_form\obj\Debug\jukebox_form.form_DVD_ajout.resources
+C:\Users\thomas\Desktop\Workspace\Jukebox\App_jukebox\jukebox_form\obj\Debug\jukebox_form.form_DVD_modif.resources
+C:\Users\thomas\Desktop\Workspace\Jukebox\App_jukebox\jukebox_form\obj\Debug\jukebox_form.Properties.Resources.resources
+C:\Users\thomas\Desktop\Workspace\Jukebox\App_jukebox\jukebox_form\obj\Debug\jukebox_form.csproj.GenerateResource.Cache
+C:\Users\thomas\Desktop\Workspace\Jukebox\App_jukebox\jukebox_form\obj\Debug\jukebox_form.exe
+C:\Users\thomas\Desktop\Workspace\Jukebox\App_jukebox\jukebox_form\obj\Debug\jukebox_form.pdb
+C:\Users\thomas\Desktop\Workspace\Jukebox\App_jukebox\jukebox_form\obj\Debug\jukebox_form.Form_CD_emprunt.resources

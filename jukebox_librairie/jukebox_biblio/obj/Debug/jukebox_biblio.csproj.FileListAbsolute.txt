@@ -1,0 +1,15 @@
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_biblio\obj\Debug\jukebox_biblio.csprojResolveAssemblyReference.cache
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_biblio\bin\Debug\ClassLibrary1.dll
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_biblio\bin\Debug\ClassLibrary1.pdb
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_biblio\bin\Debug\MySql.Data.dll
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_biblio\bin\Debug\MySql.Data.Entity.dll
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_biblio\bin\Debug\MySql.Web.dll
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_biblio\obj\Debug\ClassLibrary1.dll
+C:\Users\thomas\Desktop\Workspace\Jukebox\Nouveau dossier\App_jukebox\jukebox_biblio\obj\Debug\ClassLibrary1.pdb
+C:\Users\thomas\Desktop\Workspace\Jukebox\jukebox_librairie\jukebox_biblio\bin\Debug\ClassLibrary1.dll
+C:\Users\thomas\Desktop\Workspace\Jukebox\jukebox_librairie\jukebox_biblio\bin\Debug\ClassLibrary1.pdb
+C:\Users\thomas\Desktop\Workspace\Jukebox\jukebox_librairie\jukebox_biblio\bin\Debug\MySql.Data.dll
+C:\Users\thomas\Desktop\Workspace\Jukebox\jukebox_librairie\jukebox_biblio\bin\Debug\MySql.Data.Entity.dll
+C:\Users\thomas\Desktop\Workspace\Jukebox\jukebox_librairie\jukebox_biblio\bin\Debug\MySql.Web.dll
+C:\Users\thomas\Desktop\Workspace\Jukebox\jukebox_librairie\jukebox_biblio\obj\Debug\ClassLibrary1.dll
+C:\Users\thomas\Desktop\Workspace\Jukebox\jukebox_librairie\jukebox_biblio\obj\Debug\ClassLibrary1.pdb
